@@ -1,4 +1,0 @@
-class ContractEmployee 
-{
-  //hello
-}
