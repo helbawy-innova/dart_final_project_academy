@@ -1,5 +1,6 @@
-import 'package:dart_final_project/dart_final_project.dart' as dart_final_project;
+import '/Users/ehsanashry/AndroidStudioProjects/finalproject/bin/user_Interface/user_interface.dart';
 
-void main(List<String> arguments) {
-  //TODO: add your cli UI here
+
+void main() {
+  userInterface();
 }
